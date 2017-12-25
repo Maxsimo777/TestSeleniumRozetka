@@ -1,0 +1,71 @@
+Test case № 1 Add Product start
+Select Name Product Name1 = Ноутбук Lenovo IdeaPad 110-15IBR (80T700D2RA) Black + мышка в подарок!
+Select Price Product Price1 = 6 499 грн
+Click button Buy
+Select name product Name2 = Ноутбук Lenovo IdeaPad 110-15IBR (80T700D2RA) Black + мышка в подарок!
+Name1 = НоутбукLenovoIdeaPad110-15IBR(80T700D2RA)Black+мышкавподарок! Name2 = НоутбукLenovoIdeaPad110-15IBR(80T700D2RA)Black+мышкавподарок!
+Name1 and Name2 equals
+Price1 = 6499 Price2 = 6499
+Price1 and Price2 equals
+Price3 = 6499
+Price2 and Price3 equals
+Price1 and Price3 equals
+Element delete select product exists and is active
+Click button delete select product
+Button delete dont save exists and is active
+Click button Delete dont save
+Cart = Корзина пуста
+Empty Cart
+Close Cart
+Test case № 2 Add Product by categorie start
+Click link Laptops and Computers
+Click link Asus
+Select and copy name product Name Ноутбук Asus VivoBook Max X541NA (X541NA-GO123) Silver + Сумка в подарок!
+Select and copy price product Price 6999
+Go to selected product
+Click button Buy
+Summa product in cart 6999
+Summa product in cart 6999
+Summa in cart and summa product equals
+Click button Continue shopping
+Go back to the selected section
+Select and copy name product Name Ноутбук Asus X751NV (X751NV-TY001) Black + Сумка в подарок!
+Select and copy price product Price 11199
+Go to selected product
+Click button Buy
+Summa product in cart 11199
+Summa product in cart 11199
+Summa in cart and summa product equals
+Click button Continue shopping
+Go back to the selected section
+Total by select product = 18198
+Click button Cart
+Find total summa cart
+Total summa by cart = 18198
+Summa Add product and summa Total summa Cart equals
+Test case № 3 Add Product by categorie Fridge start
+Click section menu Appliances
+Click section menu Fridge
+Click section menu single-chamber
+Select and copy name product Name Однокамерный холодильник VESTFROST VD142RS
+Select and copy price product Price 3999
+Go to selected product
+Click button Buy
+Summa product in cart 3999
+Summa product in cart 3999
+Summa in cart and summa product equals
+Click button Continue shopping
+Go back to the selected section
+Select and copy name product Name Холодильник SAMSUNG RB33J3201SA/UA + сертификат 800 грн или кредит 0,01% + 1 год дополнительной гарантии!
+Select and copy price product Price 15999
+Go to selected product
+Click button Buy
+Summa product in cart 15999
+Summa product in cart 15999
+Summa in cart and summa product equals
+Click button Continue shopping
+Go back to the selected section
+Actual summa = 38000
+Click button Cart
+Find total summa cart
+Total summa by cart = 38196

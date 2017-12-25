@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Add cart" parallel="methods" thread-count="1">
+
+    <test name="AddProdutToCart" preserve-order="true">
+    <classes>
+        <class name="ua.rozetka.webdriver.TestRozetka">
+                <methods>
+                    <include name="AddPopularProduct"/>
+                    <include name="AddProductByCategorie"/>
+                    <include name="AddProductByCategorieFridge"/>
+                </methods>
+        </class>
+    </classes>
+    </test>
+
+    <test name="SearchElement" preserve-order="true">
+        <classes>
+            <class name="ua.rozetka.webdriver.SearchElement">
+                <methods>
+                    <include name="SearchElement"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

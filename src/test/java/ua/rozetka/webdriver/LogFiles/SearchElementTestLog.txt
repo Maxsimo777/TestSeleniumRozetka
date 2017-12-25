@@ -1,0 +1,40 @@
+Test case 1 Search Element start
+Element Search exists and is active
+Click element Search
+Enter word iPhone X
+Element Button Search exists and is active
+Click Element Button Search
+Test case 1 Search Element start
+Element Search exists and is active
+Click element Search
+Enter word iPhone X
+Element Button Search exists and is active
+Click Element Button Search
+Text by all list product Акция! К смартфонам - пакет Vodafone в подарок!
+Apple iPhone X 64GB Silver
+38 499 грн 23 отзыва
+  Apple iPhone X 256GB Space Gray
+Товар закончился
+45 999 грн 16 отзывов
+Сообщите,
+когда появится
+Count entry word iPhone X2
+Count Product with word iPhone X = 2
+Count entry equals
+Count find element to list = 2
+Searh Element0Equals
+Searh Element1Equals
+Element search is correct
+Test case 1 Search Element start
+Element Search exists and is active
+Click element Search
+Enter word iPhone X
+Element Button Search exists and is active
+Click Element Button Search
+Count entry word iPhone X = 2
+Count Product with word iPhone X = 2
+Count entry equals
+Count find element to list = 2
+Searh Element0Equals
+Searh Element1Equals
+Element search is correct
